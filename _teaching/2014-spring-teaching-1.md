@@ -1,20 +1,12 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+Introduction to Macroeconomics: Winter 2022, Fall 2020, Spring 2020, Winter 2020
 
-Heading 2
-======
+Intermediate Macroeconomics: Spring 2021, Winter 2021
 
-Heading 3
-======
+Intermediate Macroeconomic Theory: Fall 2021, Fall 2019
+
+Intermediate Microeconomics: Spring 2022
+
+Introductory Econometrics: Summer 2021
+
