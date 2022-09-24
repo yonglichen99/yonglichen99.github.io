@@ -83,7 +83,7 @@ author:
   name             : "Yongli Chen"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Economics"
-  location         : "Riverside, CA"
+  location         : #"Riverside, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
