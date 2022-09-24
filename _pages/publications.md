@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: 
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-Working paper
-======
+Working papers
+
   * [PMC](http://yonglichen99.github.io/files/PMC0815.pdf)
   * free lunch
 
-Working in progress
-======
+Work in progress
+
   * intergenrational mobility
