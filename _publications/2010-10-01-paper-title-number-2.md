@@ -1,7 +1,7 @@
 ---
 title: "The long-Run Impacts of Childhood Nutrition Improvements on Education: Evidence from Rural China"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-free-lunch-and-education
 excerpt: 'Public investments in children's nutrition can improve educational attainment and intergenerational mobility in education.'
 date: 2010-10-01
 venue: 'Journal 1'
