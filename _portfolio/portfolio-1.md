@@ -1,5 +1,5 @@
 ---
-title: "The Long-run Impacts of Childhood Nutrition Improvements on Education: Evidence from Rural China"
+title: "The Long-Run Impacts of Childhood Nutrition Improvements on Education: Evidence from Rural China"
 excerpt: "Job Market Paper"
 collection: portfolio
 ---
