@@ -1,8 +1,7 @@
 ---
-title: "The impact of free lunch"
+title: "The Long-Run Impacts of Childhood Nutrition Improvements on Education: Evidence from Rural China"
 collection: publications
 permalink: /publication/free-lunch-new
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 
 
 ---
