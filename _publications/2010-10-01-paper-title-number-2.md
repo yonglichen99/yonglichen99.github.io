@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publications/2010-10-01-paper-title-number-2
 excerpt: 'Public investments in children's nutrition can improve educational attainment and intergenerational mobility in education.'
 date: 2010-10-01
 venue: 'Journal 1'
