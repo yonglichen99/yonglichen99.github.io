@@ -7,9 +7,13 @@ author_profile: true
 
 **Working papers**
 
-  * [PMC](http://yonglichen99.github.io/files/PMC0815.pdf)
-  * free lunch
+  * [The long-run impacts of childhood nutrition improvements on education: Evidence from rural China](http://yonglichen99.github.io/files/free_lunch_and_education_v4.5.pdf)
+  Abstract: There have been many discussions about the effects of school meal programs in the literature. But these programs' long-term impacts on educational attainment and intergenerational mobility in education, especially for developing countries, are still under-investigated. To fill this gap, this paper explores a nutrition improvements program implemented in rural China using China Family Panel Study data and a Difference-in-Differences strategy. The results show that this policy improved educational attainment for rural students: One additional year of policy exposure led to a 0.14-year increase in schooling, a 9.3 percent increase in compulsory education completion, and a 37 percent decrease in illiteracy rate. Girls and students from poverty-stricken counties and low-income families, benefited more. The improvements in educational attainment were mainly driven by better health status, fewer absence days, a lower likelihood of absence for illness, and better academic performance. Further analyses show that this policy also promoted intergenerational mobility in education in rural China, and this effect was more pronounced for aforementioned socioeconomically disadvantaged groups. The findings suggest that increasing public investments in children's nutrition in less developed areas can be an effective way to reduce educational inequality and improve intergenerational mobility in education. 
 
-**Work in progress**
+  * [The Unintended Impact of Fiscal Hierarchy Reforms on Local Air Quality: Evidence from China](http://yonglichen99.github.io/files/PMC0815.pdf)
+  
 
-  * intergenrational mobility
+**Publications**
+
+  * Chinese translation of “_The Origins of Happiness: The Science of Well-Being over the Life Course_ (by Andrew E. Clark et al., Princeton University Press, 2018)” (with Zhiliang Ni et al.). Shanghai: Shanghai People’s Publishing House, 2021.
+  
