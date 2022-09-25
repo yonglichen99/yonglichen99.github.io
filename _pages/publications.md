@@ -18,7 +18,7 @@ author_profile: true
   
 **Work in progress**
 
-* Revisiting the Relationship between Tax and Happiness (with Jinpeng Yin)
+* "Revisiting the Relationship between Tax and Happiness" (with Jinpeng Yin)
 
 * “Verticalized Environmental Administration and Environmental Equity: Evidence from China”
 
