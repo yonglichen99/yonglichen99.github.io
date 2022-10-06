@@ -28,7 +28,7 @@ author_profile: true
 
 **Publications**
 
-  * Chinese translation of “_The Origins of Happiness: The Science of Well-Being over the Life Course_ (by Andrew E. Clark et al., Princeton University Press, 2018)” (with Zhiliang Ni et al.). Shanghai: Shanghai People’s Publishing House, 2021.
+  * Chinese translation of “_The Origins of Happiness: The Science of Well-Being over the Life Course_ (by Andrew E. Clark et al., Princeton University Press, 2018)” (with Zhiliang Ni et al.). Shanghai: Gezhi Press, 2021.
   * “Environmental Behaviors of Local Governments and Subjective Well-Being.” (with Jinpeng Yin and Binbin Zhong). _Review of Industrial Economics_ (CSSCI) 20 (4): 88--118, 2021. (in Chinese)
   * “Public Education Spending, Social Stratification and Happiness: An Empirical Research Based on CGSS2010--2015.” (with Jinpeng Yin and Zhiliang Ni). _Nankai Economic Studies_ (CSSCI) (2): 147--167, 2019. (in Chinese)
   * “Laws and Policies of Public-Private Partnerships in China.” In Dongyan Li and Dongmei Zhang (eds.), _Public-Private Partnerships: Theory and Practice._ Beijing: China Financial and Economic Publishing House, 2018. (in Chinese)
