@@ -7,7 +7,7 @@ author_profile: true
 
 **Working papers**
 
-* Long-Run Impacts of Public Investments in Children's Nutrition on Education: Evidence from Rural China (Job Market Paper)
+* [Long-Run Impacts of Public Investments in Children's Nutrition on Education: Evidence from Rural China](http://yonglichen99.github.io/files/free_lunch_latest.pdf) (Job Market Paper)
 
   Abstract: The long-term impacts of school meal programs on educational attainment and intergenerational mobility in education are under-investigated, particularly for developing countries. To fill this gap, this paper explores a nutrition improvement program implemented in rural China. Using the data from China Family Panel Studies and a Difference-in-Differences identification strategy, my results show that the policy improved educational attainment for rural students: one additional year of policy exposure led to a 0.14-year increase in schooling, a 2.3 percentage point increase in middle school graduation, and a 1 percentage point decrease in illiteracy rate. Girls and students from poverty-stricken counties and low-income families benefited most. The improvements in educational attainment were associated with better health status, fewer absence days, a lower likelihood of absence for illness, and better academic performance. Further analysis shows that this policy also promoted intergenerational mobility in education in rural China, and this effect was more pronounced for aforementioned socioeconomically disadvantaged groups. 
 
